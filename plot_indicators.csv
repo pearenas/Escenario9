@@ -1,0 +1,4 @@
+Classification_level,svg_id,plot_title,filter,col_t,col_y,std_err,y_label,group_by,csv_url,direct_path,skip_lines,plot_caption,plotting_function_call
+NA,pez1,NoPlot,NA,fake-x-axis,fake-x-axis,NA,NA,NA,https://not.a.real/link.csv,NA,NA,captions/pez1.md,plot_none
+NA,meta1,NoPlot,NA,fake-x-axis,fake-x-axis,NA,NA,NA,https://not.a.real/link.csv,NA,NA,captions/meta1.md,plot_none
+NA,barco1,NoPlot,NA,fake-x-axis,fake-x-axis,NA,NA,NA,https://not.a.real/link.csv,NA,NA,captions/barco1.md,plot_none

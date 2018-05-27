@@ -1,0 +1,50 @@
+---
+output:
+html_document:
+self_contained: false
+lib_dir: "libs"
+fig_height: 2
+fig_width: 4
+params:
+element: "meta1"
+---
+
+```{r, echo=FALSE, message=F, warning=F}
+knitr::opts_chunk$set(echo=F, message=F, warning=F)
+library(infographiq)
+```
+
+<base target="_parent">
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 18px;
+  }
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: Red;
+}
+h2 { /* Header 2 */
+  font-size: 12px;
+}
+h3 { /* Header 3 */
+  font-size: 12px;
+  color: White
+}
+</style>
+
+# La Temporada de Pesca es Demasiado Larga
+
+Dados los barcos que tenemos, una temporada **Sin Restricción** hace que se **Extinga el Pescado** . No hay peces para el futuro. **Reduce** la **Temporada de Pesca** o el **Número de Barcos**
+
+### Space
+### Space
+
+## [Regresa a la simulación](https://tuna.shinyapps.io/InfoGraphicsShinny/)
+
+
+```{r}
+# use this plotting function to have no plot at all for a given indicator.
+# this is useful if you want a text blurb with no plot eg: issue #30 :
+# https://github.com/marinebon/infographiq/issues/30
+```
